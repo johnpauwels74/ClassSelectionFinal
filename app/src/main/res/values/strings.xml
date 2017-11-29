@@ -4,4 +4,44 @@
     <string name="password">Password</string>
     <string name="loginHint">Enter a user name</string>
     <string name="loginButtonText">Login</string>
+
+
+    <string name="errMessageLogin">Invalid Login. Please retry.</string>
+    <string name="errMessagePassword">Invalid Password. Please retry.</string>
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="Phone">Phone</string>
+    <string name="txtBday">Date of Birth</string>
+    <string-array name="Month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Aug</item>
+        <item>Sep</item>
+        <item>Oct</item>
+        <item>Nov</item>
+        <item>Dec</item>
+    </string-array>
+
+    <string name="txtDay">Day</string>
+    <string name="txtYear">Year</string>
+    <string name="cert">Certificate</string>
+    <string name="twoYr">Associates Degree</string>
+    <string name="txtMajor">Major</string>
+    <string name="txtNext">Next</string>
+    <string-array name="lstCertificate">
+        <item>Android Certificate</item>
+        <item>iOS Mobile Certificate</item>
+    </string-array>
+    <string-array name="lstMajor">
+        <item>Digital Media</item>
+        <item>Mobile Application Development</item>
+        <item>Web Development</item>
+    </string-array>
+
+
 </resources>
