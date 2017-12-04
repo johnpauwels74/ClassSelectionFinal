@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainClassList" />
-        <activity android:name=".ChooseClass"></activity>
+        <activity android:name=".ChooseClass" />
+        <activity android:name=".Summary"></activity>
     </application>
 
 </manifest>

@@ -42,6 +42,23 @@
         <item>Mobile Application Development</item>
         <item>Web Development</item>
     </string-array>
-
+    <string name="btnNext">Next</string>
+    <string name="sectionClass">Select your class and time slot:</string>
+    <string name="class1">MAD-107: iOS I</string>
+    <string name="class2">MAD-155: Android II </string>
+    <string name="class3">MAD-157: iOS II</string>
+    <string name="class4">MAD-257: Capstone Mobile Class</string>
+    <string name="timeRb1">T/Th 12:00 PM - 1:50 PM</string>
+    <string name="timeRb2">M/W 10:00 AM - 11:50 AM</string>
+    <string name="timeRb3">T/Th 12:00 PM - 1:50 PM</string>
+    <string name="timeRb4">T/Th 4:00 PM - 5:50 PM</string>
+    <string name="timeRb5">F 9:00 AM - 12:50 PM</string>
+    <string name="timeRb6">M/W 12:00 PM - 1:50 PM</string>
+    <string name="sumName">Student:</string>
+    <string name="sumPhone">Phone:</string>
+    <string name="sumBirth">Birthdate:</string>
+    <string name="sumDegree">Degree Plan:</string>
+    <string name="sumMajor">Major:</string>
+    <string name="sumNext">Next Semester:</string>
 
 </resources>
